@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "XO: Expense Manager.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "XO: Expense Manger.github",
+  "start_url": "/",
+  "theme_color": "#82c51e",
+  "id": "com.xoexpmanager.app",
+  "description": "A simple and friendly app to manage your daily expenses and income."
+}
